@@ -1,0 +1,12 @@
+numpy
+matplotlib
+jupyter_contrib_nbextensions
+scipy
+scikit-learn
+appmode
+notebook
+ipython
+prompt-toolkit
+ipywidgets
+ipyevents
+image
