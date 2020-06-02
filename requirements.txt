@@ -10,3 +10,6 @@ prompt-toolkit
 ipywidgets
 ipyevents
 image
+jplephem
+de423
+de421
