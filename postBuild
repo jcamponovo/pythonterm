@@ -8,6 +8,11 @@ jupyter nbextension enable exercise2/main
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust pythonterm.ipynb
 jupyter trust pythonterm2.ipynb
+jupyter trust pythonterm3.ipynb
+jupyter trust pythonterm4.ipynb
+jupyter trust pythonterm5.ipynb
+jupyter trust pythonterm6.ipynb
+jupyter trust pythonterm7.ipynb
 
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
